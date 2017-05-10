@@ -73,6 +73,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part78_SortingListComplexTy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part79_SortListComplexTypesUsingComparisonDelegate", "Part79_SortListComplexTypesUsingComparisonDelegate\Part79_SortListComplexTypesUsingComparisonDelegate.csproj", "{99886835-63CA-481F-B8EB-351D8CB62BA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part80_UsefulMethodsOfList", "Part80_UsefulMethodsOfList\Part80_UsefulMethodsOfList.csproj", "{44E50BCC-2252-43B7-81DA-5C3E56C8E836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part82_GenericQueue", "Part82_GenericQueue\Part82_GenericQueue.csproj", "{AE6C1442-779A-4A6D-9DEC-1F043BEBE27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part83_GenericStack", "Part83_GenericStock\Part83_GenericStack.csproj", "{D5B8ED17-3E19-4266-BB99-442A0A7C561B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part49_AccessModifiers", "Part49_AccessModifiers\Part49_AccessModifiers.csproj", "{9C79B039-D008-4E0F-8C92-2A69CFAB6960}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -223,5 +231,21 @@ Global
 		{99886835-63CA-481F-B8EB-351D8CB62BA1}.Debug|x86.Build.0 = Debug|x86
 		{99886835-63CA-481F-B8EB-351D8CB62BA1}.Release|x86.ActiveCfg = Release|x86
 		{99886835-63CA-481F-B8EB-351D8CB62BA1}.Release|x86.Build.0 = Release|x86
+		{44E50BCC-2252-43B7-81DA-5C3E56C8E836}.Debug|x86.ActiveCfg = Debug|x86
+		{44E50BCC-2252-43B7-81DA-5C3E56C8E836}.Debug|x86.Build.0 = Debug|x86
+		{44E50BCC-2252-43B7-81DA-5C3E56C8E836}.Release|x86.ActiveCfg = Release|x86
+		{44E50BCC-2252-43B7-81DA-5C3E56C8E836}.Release|x86.Build.0 = Release|x86
+		{AE6C1442-779A-4A6D-9DEC-1F043BEBE27B}.Debug|x86.ActiveCfg = Debug|x86
+		{AE6C1442-779A-4A6D-9DEC-1F043BEBE27B}.Debug|x86.Build.0 = Debug|x86
+		{AE6C1442-779A-4A6D-9DEC-1F043BEBE27B}.Release|x86.ActiveCfg = Release|x86
+		{AE6C1442-779A-4A6D-9DEC-1F043BEBE27B}.Release|x86.Build.0 = Release|x86
+		{D5B8ED17-3E19-4266-BB99-442A0A7C561B}.Debug|x86.ActiveCfg = Debug|x86
+		{D5B8ED17-3E19-4266-BB99-442A0A7C561B}.Debug|x86.Build.0 = Debug|x86
+		{D5B8ED17-3E19-4266-BB99-442A0A7C561B}.Release|x86.ActiveCfg = Release|x86
+		{D5B8ED17-3E19-4266-BB99-442A0A7C561B}.Release|x86.Build.0 = Release|x86
+		{9C79B039-D008-4E0F-8C92-2A69CFAB6960}.Debug|x86.ActiveCfg = Debug|x86
+		{9C79B039-D008-4E0F-8C92-2A69CFAB6960}.Debug|x86.Build.0 = Debug|x86
+		{9C79B039-D008-4E0F-8C92-2A69CFAB6960}.Release|x86.ActiveCfg = Release|x86
+		{9C79B039-D008-4E0F-8C92-2A69CFAB6960}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
