@@ -7,8 +7,9 @@
 
 namespace Part48_TypesAndTypeMembers
 {
-    class Customer
+    class Customer //Type
     {
+        // Type members
         #region fields
         private int _id;
         private string _firstName;
@@ -39,6 +40,7 @@ namespace Part48_TypesAndTypeMembers
             return this._firstName + " " + this._lastName;
         }
         #endregion
+        // End type members
     }
 
     class MainClass
