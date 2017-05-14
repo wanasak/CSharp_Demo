@@ -76,13 +76,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part87_AdvantagesAndDisadva
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part88_ThreadStartDelegate", "Part88_ThreadStartDelegate\Part88_ThreadStartDelegate.csproj", "{74C013F8-BC07-4B0B-A490-03FC2D295DD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part6_NullableType", "Part6_NullableType\Part6_NullableType.csproj", "{6C3E3432-2459-492E-810A-77269FD06CD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part06_NullableType", "Part6_NullableType\Part06_NullableType.csproj", "{6C3E3432-2459-492E-810A-77269FD06CD4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part40_ExceptionHandling", "Part40_ExceptionHandling\Part40_ExceptionHandling.csproj", "{62429798-E5C9-4FA7-B732-EBB9F51AF579}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part41_InnerException", "Part41_InnerException\Part41_InnerException.csproj", "{1F9746F2-818B-4AFB-A347-C70697891085}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part47_EnumsConcept", "Part47_EnumsConcept\Part47_EnumsConcept.csproj", "{4B216903-152B-49DF-83D2-F210808C0ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part56_Generic", "Part56_Generic\Part56_Generic.csproj", "{1A2CF409-1F0F-40DA-9B6F-50D0AE372208}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -358,6 +360,14 @@ Global
 		{4B216903-152B-49DF-83D2-F210808C0ECA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4B216903-152B-49DF-83D2-F210808C0ECA}.Release|x86.ActiveCfg = Release|Any CPU
 		{4B216903-152B-49DF-83D2-F210808C0ECA}.Release|x86.Build.0 = Release|Any CPU
+		{1A2CF409-1F0F-40DA-9B6F-50D0AE372208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2CF409-1F0F-40DA-9B6F-50D0AE372208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2CF409-1F0F-40DA-9B6F-50D0AE372208}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1A2CF409-1F0F-40DA-9B6F-50D0AE372208}.Debug|x86.Build.0 = Debug|Any CPU
+		{1A2CF409-1F0F-40DA-9B6F-50D0AE372208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2CF409-1F0F-40DA-9B6F-50D0AE372208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2CF409-1F0F-40DA-9B6F-50D0AE372208}.Release|x86.ActiveCfg = Release|Any CPU
+		{1A2CF409-1F0F-40DA-9B6F-50D0AE372208}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

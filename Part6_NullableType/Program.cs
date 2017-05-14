@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Part6_NullableType
+namespace Part06_NullableType
 {
     class Program
     {
