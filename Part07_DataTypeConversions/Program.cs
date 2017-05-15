@@ -6,7 +6,7 @@
 // Parse - Throws an exception if cannot parse the value
 // TryParse -
 
-namespace Part7_DataTypeConversions
+namespace Part07_DataTypeConversions
 {
     class MainClass
     {

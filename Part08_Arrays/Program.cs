@@ -4,7 +4,7 @@
 // Disadvantages - Arrays cannot grow in size once initialize, 
 //                 Have to rely on integral indices to store or retrive items
 
-namespace Part8_Arrays
+namespace Part08_Arrays
 {
     class MainClass
     {
