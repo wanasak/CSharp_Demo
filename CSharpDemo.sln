@@ -110,6 +110,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part50_AccessModifiersInter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyOne", "AssenblyOne\AssemblyOne.csproj", "{560F671D-A514-411A-9EAC-6112C75609A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part17_MethodParameters", "Part17_MethodParameters\Part17_MethodParameters.csproj", "{485753FC-0CCD-4A68-8991-78DC5147AE38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part61_PartialClass", "Part61_PartialClass\Part61_PartialClass.csproj", "{5089CF6D-75E3-42C7-9572-13E32BC6A2A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -470,6 +474,22 @@ Global
 		{560F671D-A514-411A-9EAC-6112C75609A8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{560F671D-A514-411A-9EAC-6112C75609A8}.Release|x86.ActiveCfg = Release|Any CPU
 		{560F671D-A514-411A-9EAC-6112C75609A8}.Release|x86.Build.0 = Release|Any CPU
+		{485753FC-0CCD-4A68-8991-78DC5147AE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485753FC-0CCD-4A68-8991-78DC5147AE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485753FC-0CCD-4A68-8991-78DC5147AE38}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{485753FC-0CCD-4A68-8991-78DC5147AE38}.Debug|x86.Build.0 = Debug|Any CPU
+		{485753FC-0CCD-4A68-8991-78DC5147AE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485753FC-0CCD-4A68-8991-78DC5147AE38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485753FC-0CCD-4A68-8991-78DC5147AE38}.Release|x86.ActiveCfg = Release|Any CPU
+		{485753FC-0CCD-4A68-8991-78DC5147AE38}.Release|x86.Build.0 = Release|Any CPU
+		{5089CF6D-75E3-42C7-9572-13E32BC6A2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5089CF6D-75E3-42C7-9572-13E32BC6A2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5089CF6D-75E3-42C7-9572-13E32BC6A2A2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5089CF6D-75E3-42C7-9572-13E32BC6A2A2}.Debug|x86.Build.0 = Debug|Any CPU
+		{5089CF6D-75E3-42C7-9572-13E32BC6A2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5089CF6D-75E3-42C7-9572-13E32BC6A2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5089CF6D-75E3-42C7-9572-13E32BC6A2A2}.Release|x86.ActiveCfg = Release|Any CPU
+		{5089CF6D-75E3-42C7-9572-13E32BC6A2A2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
